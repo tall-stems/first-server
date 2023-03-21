@@ -1,4 +1,4 @@
-# first-server
+# Nodejs Practice Server
 
 My first nodejs + typescript server from scratch.
 
